@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Label.cpp
+  DemoDlg.cpp
+  Demo.cpp
+  正在生成代码...
+e:\工作\reslib\demo\demodlg.cpp(575): warning C4715: “CDemoDlg::OnCtlColor”: 不是所有的控件路径都返回值
+  Demo.vcxproj -> E:\工作\ResLib\Debug\Demo.exe
+  Demo.vcxproj -> E:\工作\ResLib\Debug\Demo.pdb (Partial PDB)
